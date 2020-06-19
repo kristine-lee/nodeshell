@@ -1,2 +1,4 @@
 
 require('./pwd')
+
+require('./ls')
